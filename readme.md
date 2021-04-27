@@ -1,9 +1,8 @@
-View this project on [CADLAB.io](https://cadlab.io/project/24198). 
+DESIGN STATUS: Production
 
-DESIGN STATUS: Awaiting Testing - Ready for beta testing
-
-VCA Updated to V2.3 14/4/21
+VCA Updated to V2.31 14/4/21
 
 Library updated to include 3D models.
 Traces rerouted.
 Weird shorted cap removed. WTF?
+Values tweaked for better CV response.
